@@ -25,4 +25,4 @@ dist-ssr
 
 # Environment files
 .env
-/environment/.env
+/environment/.envenvironment/.env
